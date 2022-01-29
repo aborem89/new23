@@ -1,18 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+{
+  "magisk": {
+    "version": "Telegram : @aborem89",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "note": "https://raw.githubusercontent.com/mahmoud32xn/Magisk/51b45ae7b670993a419e4a3ff18609108761431f/docs/releases/23000.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+  }
+}
